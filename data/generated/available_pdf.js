@@ -1,0 +1,1 @@
+const availablePdf = ["abdullahi2024systematic","fahmy2019_3dcnn_scar","fahmy2021improved","fahmy2022radiomics","jathanna2021diagnostic","moccia2019development","popescu2022anatomically","shen2017deep","wu2021recent","zabihollahy2019convolutional"];
